@@ -1,6 +1,6 @@
 // var mvs = require("Matchvs");
 cc.Class({
-    extends: cc.Component,
+    extends: cc.Component,//aaaaa
 
     properties: {
         rotationSpeed: 0,
